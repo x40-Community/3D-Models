@@ -1,0 +1,154 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the Models package.
+# M4L <database@x40-community.org>, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: Name It\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-18 14:33+0000\n"
+"PO-Revision-Date: 2023-02-18 15:48+0200\n"
+"Last-Translator: M4L <database@x40-community.org>\n"
+"Language-Team: M4L\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
+
+#: Models:52
+msgctxt "@item:inmenu"
+msgid "Search 3D-Model"
+msgstr "3D-Model suchen"
+
+#: Models:53
+msgctxt "@item:inmenu"
+msgid "Open Thingiverse Homepage"
+msgstr "Thingiverse Homepage öffnen"
+
+#: Models:54
+msgctxt "@item:inmenu"
+msgid "Open Cults Homepage"
+msgstr "Cults Homepage öffnen"
+
+#: Models:55
+msgctxt "@item:inmenu"
+msgid "Open Printables Homepage"
+msgstr "Printables Homepage öffnen"
+
+#: Models:56
+msgctxt "@item:inmenu"
+msgid "Open MyMiniFactory Homepage"
+msgstr "MyMiniFactory Homepage öffnen"
+
+#: Models:57
+msgctxt "@item:inmenu"
+msgid "Open Pinshape Homepage"
+msgstr "Pinshape Homepage öffnen"
+
+#: Models:58
+msgctxt "@item:inmenu"
+msgid "Open YouMagine Homepage"
+msgstr "YouMagine Homepage öffnen"
+
+#: Models:59
+msgctxt "@item:inmenu"
+msgid "Open Threeding Homepage"
+msgstr "Threeding Homepage öffnen"
+
+#: Models:60
+msgctxt "@item:inmenu"
+msgid "Open redpath Homepage"
+msgstr "redpath Homepage öffnen"
+
+#: Models:61
+msgctxt "@item:inmenu"
+msgid "Open Fab365 Homepage"
+msgstr "Fab365 Homepage öffnen"
+
+#: Models:62
+msgctxt "@item:inmenu"
+msgid "Open CGTrader Homepage"
+msgstr "CGTrader Homepage öffnen"
+
+#: Models:63
+msgctxt "@item:inmenu"
+msgid "Open TurboSquid Homepage"
+msgstr "TurboSquid Homepage öffnen"
+
+#: Models:64
+msgctxt "@item:inmenu"
+msgid "Open 3DExport Homepage"
+msgstr "3DExport Homepage öffnen"
+
+#: Models:65
+msgctxt "@item:inmenu"
+msgid "Open Free3D Homepage"
+msgstr "Free3D Homepage öffnen"
+
+#: Models:66
+msgctxt "@item:inmenu"
+msgid "Open Instructables Homepage"
+msgstr "Instructables Homepage öffnen"
+
+#: Models:67
+msgctxt "@item:inmenu"
+msgid "Open NIH 3D Print Exchange Homepage"
+msgstr "NIH 3D Print Exchange Homepage öffnen"
+
+#: Models:68
+msgctxt "@item:inmenu"
+msgid "Open Smithsonian Homepage"
+msgstr "Smithsonian Homepage öffnen"
+
+#: Models:69
+msgctxt "@item:inmenu"
+msgid "Open African Fossils Homepage"
+msgstr "African Fossils Homepage öffnen"
+
+#: Models:70
+msgctxt "@item:inmenu"
+msgid "Open NASA 3D Resources Homepage"
+msgstr "NASA 3D Resources Homepage öffnen"
+
+#: Models:71
+msgctxt "@item:inmenu"
+msgid "Open Dremel Lesson Plans Homepage"
+msgstr "Dremel Lesson Plans Homepage öffnen"
+
+#: Models:72
+msgctxt "@item:inmenu"
+msgid "Open Creality Cloud Homepage"
+msgstr "Creality Cloud Homepage öffnen"
+
+#: Models:73
+msgctxt "@item:inmenu"
+msgid "Open 3DSets Homepage"
+msgstr "3DSets Homepage öffnen"
+
+#: Models:75
+msgctxt "@item:inmenu"
+msgid "Search at Yeggi"
+msgstr "Suchen bei Yeggi"
+
+#: Models:76
+msgctxt "@item:inmenu"
+msgid "Search at STLFinder"
+msgstr "Suchen bei STLFinder"
+
+#: Models:77
+msgctxt "@item:inmenu"
+msgid "Search at Thangs"
+msgstr "Suchen bei Thangs"
+
+#: Models:78
+msgctxt "@item:inmenu"
+msgid "Search at 3dmdb"
+msgstr "Suchen bei 3dmdb"
+
+#: Models:80
+msgctxt "@item:inmenu"
+msgid "Help"
+msgstr "Hilfe"
+
