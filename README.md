@@ -5,7 +5,7 @@ This plugin adds a menu with links to the best 3D-Model Repositorys and Marketpl
 ![menu Extensions 3D-Models Plugin](./images/menu.png)
 
 ## Install
-In the plugin directory, create a subdirectory called Models. In this subdirectory create another subdirectory with the same name. Unpack the contents of the zip-file in this subdirectory and restart Cura.
+In the plugin directory, create a subdirectory called **Models**. In this subdirectory create another subdirectory with the same name. Unpack the contents of the zip-file in this subdirectory and restart Cura.
 
 
 ## Dependency
