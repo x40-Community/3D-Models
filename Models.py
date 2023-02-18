@@ -168,6 +168,6 @@ class Models(QObject, Extension):
         QDesktopServices.openUrl(QUrl("https://3dmdb.com/"))   
   
     def gotoHelp(self) -> None:
-        QDesktopServices.openUrl(QUrl("http://www.x40-community.org/index.php/9-cura-workflow/89-cura-idex-calibration-parts-plugin"))
+        QDesktopServices.openUrl(QUrl("http://www.x40-community.org/index.php/9-cura-workflow/90-3d-model-plugin"))
 
    
